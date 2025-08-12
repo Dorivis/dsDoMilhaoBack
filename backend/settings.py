@@ -55,6 +55,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # React default port
+    "https://dorivis.github.io",
 ]
 
 ROOT_URLCONF = 'backend.urls'
