@@ -59,6 +59,9 @@ CORS_ALLOWED_ORIGINS = [
     "https://dorivis.github.io",
 ]
 
+# Caso queira permitir qualquer origem para testes:
+CORS_ALLOW_ALL_ORIGINS = True
+
 ROOT_URLCONF = 'backend.urls'
 
 TEMPLATES = [
