@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-3l8ub%n=mp3!=61q4!b+s&jc4q_9h0!5_*2x67#!9s0khafd5s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'dsdomilhaoback.onrender.com', 'dorivis.github.io']
+
 
 
 # Application definition
